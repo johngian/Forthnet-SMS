@@ -17,8 +17,8 @@ r = br.open('https://www.forthnet.gr/secure/webSMS/default.aspx')
 br.select_form(nr=0)
 
 print "Email:"
-msg = raw_input()
-br.form['Username'] = msg
+login_email = raw_input()
+br.form['Username'] = login_email
 
 print "Password:"
 password = raw_input()
