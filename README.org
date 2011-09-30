@@ -16,9 +16,11 @@ Its use is simple. Just follow the instructions and write the phone number and t
    - To configure *ForthnetSms.py* open the script and change the *login_email* and *password* variables properly.
 
 
-** For android users
-   - In order to use mechanize library with SL4A Python interpreter in Αndroid, just download the latest 
-     stable *mechanize* library .tar and extract *only* the source folder inside the folder you saved the script.
+** For android users:
+
+   - Install the Python interpreter (SL4A > Menu > View > Interpreters and then Add>Python)
+   - In order to use mechanize library with SL4A Python interpreter in Αndroid, just download the latest .tar from http://pypi.python.org/pypi/mechanize
+     and extract *only* the source folder inside the folder with the rest of your scripts.
      Then you can import the library as usually (/import mechanize/).
 
 
