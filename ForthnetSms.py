@@ -19,7 +19,7 @@ br.form['Password'] = password
 br.submit()
 
 
-#Send sms
+#SMS texting/sending
 br.select_form(nr=0)
 
 print "Phone Number:"
