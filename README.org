@@ -1,6 +1,6 @@
 * Forthnet SMS
 ** About
-This is a simple script using Python's "Mechanize" library.
+This is a simple script using Python's *Mechanize* library.
 It is written in order to avoid the use of Forthnet's WebSMS Service website, when sending text-messages.
 Its use is simple. Just follow the instructions and write the phone number and the text-message you would like to send.
 
@@ -8,16 +8,17 @@ Its use is simple. Just follow the instructions and write the phone number and t
 Mechanize Library (http://pypi.python.org/pypi/mechanize)
 
 ** Installation
-   - To install mechanize: 
-     - using pip: "pip install mechanize" 
-     - using easy_install: "easy_install mechanize"
-     - you can also download from (http://pypi.python.org/pypi/mechanize) and run python setup.py install (or read the INSTALL.txt)
-   - To configure ForthnetSms.py open the script and change the "login_email" and "password" variables properly.
+   - To install *mechanize*: 
+     - using pip: /pip install mechanize/ 
+     - using easy_install: /easy_install mechanize/
+     - you can also download *mechanize* from (http://pypi.python.org/pypi/mechanize) and run /python setup.py install/ (or read the INSTALL.txt)
+   - To configure *ForthnetSms.py* open the script and change the *login_email* and *password* variables properly.
 
 
-** For android users:
-   - Android OS comes with a handy scripting layer that supports python programming language. 
-In order to use mechanize library with SL4A python scripting in python, just download the latest stable mechanize library and extract *only* the source folder inside the folder you saved the script. 
-Then you can import it in your python code.
+<<<<<<< HEAD
+
+For android users: In order to use mechanize library with SL4A python scripting in android, just download the latest
+stable mechanize library tar and extract it inside the folder you saved the script. Then you can import it in your python code.
+
 
 
