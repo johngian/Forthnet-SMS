@@ -12,7 +12,7 @@ Mechanize Library (http://pypi.python.org/pypi/mechanize)
      - using pip: /pip install mechanize/ 
      - using easy_install: /easy_install mechanize/
      - you can also download *mechanize* from (http://pypi.python.org/pypi/mechanize) and run /python setup.py install/ (or read the INSTALL.txt)
-   - To configure *ForthnetSms.py* open the script and change the "login_email" and "password" variables properly.
+   - To configure *ForthnetSms.py* open the script and change the *login_email* and *password* variables properly.
 
 
 For android users: In order to use mechanize library with SL4A python scripting in python, just download the latest
